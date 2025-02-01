@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Tim's Neurogarden
 ---
 
 This is a blank Quartz installation.
